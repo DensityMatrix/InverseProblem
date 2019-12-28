@@ -1,3 +1,5 @@
+Program for X-ray CT image reconstruction
+
 The data file contains two variables:
     - sinogram: a Nviews x Nrays matrix containing the measured X-ray CT data,
         where Nviews is 540 and Nrays is 512
